@@ -15,5 +15,5 @@ function dividir(a,b){
 }
 
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { sumar, multiplicar };
+  module.exports = { sumar, multiplicar, dividir };
 }
